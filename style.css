@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(59, 58, 58);
+}
+
+header.bg-secondary {
+    width: 100%;
+    font-size: 20px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+.container {
+    min-width: 10%;
+    min-height: 100vh;
+    margin: 1.5rem;
+    padding: 2rem;
+    margin-top: -1.65rem;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+span.text-success {
+    color: green;
+    font-weight: bolder;
+}
+
+h2.display-2 {
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+.form-control {
+    width: 350px;
+    min-height: 50px;
+    margin: .9rem;
+    border: none;
+    border-radius: 4px;
+}
+
+.col-md-6 {
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    min-width: 400px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+
+}
